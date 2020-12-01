@@ -1,4 +1,39 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my Github profile
+
+---
+
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+
+---
+
+### I am currently working on
+- List
+- stuff
+- here
+
+---
+
+### I am currently learning
+- More
+- Stuff
+- Here
+
+---
+
+### Reach me on
+<a href="http://www.daveregg.com">
+  <img src="https://img.shields.io/badge/Personal%20Website-0076d6?logo=chrome&logoColor=white&style=for-the-badge" alt="website link" />
+</a>
+
+<a href="https://www.twitter.com/DaveRegg">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter link" />
+</a>
+
+<a href="https://www.linkedin.com/in/daveregg/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+
+---
 
 [![Dave's github stats](https://github-readme-stats.vercel.app/api?username=drregg6)](https://github.com/drregg6/github-readme-stats)
 
