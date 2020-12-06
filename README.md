@@ -5,16 +5,16 @@
 ---
 
 ### I am currently working on
-- List
-- stuff
-- here
+- [dr-portfolio](https://github.com/drregg6/dr-portfolio)
+- [pokedave](https://github.com/drregg6/pokedave)
+- [reggit](https://github.com/drregg6/reddit-clone-2)
 
 ---
 
 ### I am currently learning
-- More
-- Stuff
-- Here
+- [Firebase](https://firebase.google.com/)
+- [Tailwind](https://tailwindcss.com/)
+- [React Native](https://reactnative.dev/)
 
 ---
 
