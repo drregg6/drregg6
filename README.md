@@ -6,15 +6,11 @@
 
 ### I am currently working on
 - [dr-portfolio](https://github.com/drregg6/dr-portfolio)
-- [pokedave](https://github.com/drregg6/pokedave)
-- [reggit](https://github.com/drregg6/reddit-clone-2)
 
 ---
 
 ### I am currently learning
-- [Firebase](https://firebase.google.com/)
-- [Tailwind](https://tailwindcss.com/)
-- [React Native](https://reactnative.dev/)
+- [AEM]([https://firebase.google.com/](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en))
 
 ---
 
@@ -23,18 +19,11 @@
   <img src="https://img.shields.io/badge/Personal%20Website-0076d6?logo=chrome&logoColor=white&style=for-the-badge" alt="website link" />
 </a>
 
-<a href="https://www.twitter.com/DaveRegg">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter link" />
-</a>
-
 <a href="https://www.linkedin.com/in/daveregg/">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
 ---
-
-[![Dave's github stats](https://github-readme-stats.vercel.app/api?username=drregg6)](https://github.com/drregg6/github-readme-stats)
-
 <!--
 **drregg6/drregg6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
